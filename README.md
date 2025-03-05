@@ -1,16 +1,13 @@
-## Hi there 👋
+## OI EU SOU O FERNANDO!
+🔘Fernando dos Santos Ribeiro, 19 anos.
 
-<!--
-**fernandosantos09/fernandosantos09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔘Formado no técnico de Automação Industrial.
 
-Here are some ideas to get you started:
+🔘Atualmente cursando Curso Superior em Tecnologia Banco de Dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandosantos09)
+![Fernando Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandosantos09&layout=compact&langs_count=6&theme=white)
+
+
+
+
