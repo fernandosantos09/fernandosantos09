@@ -10,7 +10,7 @@
 
 | Projetos Automação Industrial                  | Descrição                          | Link                           |
 |--------------------------|-------------------------------------|------------------------------------------|
-| 💻 **SIMOBO - PJI**                | Planta de controle de nível | [➡️ Ver Projeto](https://github.com/fernandosantos09/simobo.git) |
+| 💻 **SIMOBO - PJI**                | Planta de controle de nível (repositório em andamento) | [➡️ Ver Projeto](https://github.com/fernandosantos09/simobo.git) |
 | 💻 **Sistema Supervisório CAE**    | Sistema supervisório do IFSP  | [➡️ Ver Projeto](https://github.com/fernandosantos09/supervisoriocaeifsp.git) |
 ---
 
